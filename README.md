@@ -4,6 +4,7 @@ This project explores global tech layoff data using SQL, uncovering trends acros
 What I Analyzed
 
 Scale of layoffs 
+
   — Identified the maximum total and percentage of workforce laid off across all companies
 100% layoff events — Filtered companies that laid off their entire workforce, ranked by size and funds raised
 Company-level totals — Ranked companies by total employees laid off
