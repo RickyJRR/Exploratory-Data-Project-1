@@ -39,3 +39,9 @@ SQL Techniques Used
 —Substring-based date formatting for monthly grouping
 
 —Filtering and sorting with WHERE and ORDER BY
+
+Dataset
+
+—layoffs_staging2 — a cleaned staging table of tech layoff records including company, industry, country, date, total laid off, percentage laid off, and funds raised.
+
+
