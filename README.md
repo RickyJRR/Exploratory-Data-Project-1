@@ -1,4 +1,4 @@
-# Exploratory-Data-Project-1
+# Exploratory-Data-Project-in-SQL-Workbench
 This project explores global tech layoff data using SQL, uncovering trends across companies, industries, countries, and time periods. The goal was to surface meaningful patterns from raw data — identifying who was hit hardest, when, and by how much.
 
 What I Analyzed:
