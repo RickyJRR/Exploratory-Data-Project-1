@@ -10,9 +10,23 @@ Scale of layoffs
 100% layoff events 
 
 — Filtered companies that laid off their entire workforce, ranked by size and funds raised
-Company-level totals — Ranked companies by total employees laid off
-Industry impact — Aggregated layoffs by sector to identify the hardest-hit industries
-Country breakdown — Compared layoff volumes across countries globally
-Year-over-year trends — Grouped layoffs by year to track how the wave evolved over time
-Monthly trends & rolling totals — Used a rolling SUM window function to visualize cumulative layoffs month by month
-Top 5 companies per year — Used DENSE_RANK() with PARTITION BY to rank companies by layoffs within each year
+Company-level totals
+
+— Ranked companies by total employees laid off
+Industry impact
+
+— Aggregated layoffs by sector to identify the hardest-hit industries
+Country breakdown
+
+— Compared layoff volumes across countries globally
+Year-over-year trends
+
+— Grouped layoffs by year to track how the wave evolved over time
+
+Monthly trends & rolling totals 
+
+— Used a rolling SUM window function to visualize cumulative layoffs month by month
+
+Top 5 companies per year
+
+— Used DENSE_RANK() with PARTITION BY to rank companies by layoffs within each year
