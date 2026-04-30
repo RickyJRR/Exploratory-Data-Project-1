@@ -3,12 +3,8 @@ This project explores global tech layoff data using SQL, uncovering trends acros
 
 What I Analyzed:
 
-Scale of layoffs 
-
   — Identified the maximum total and percentage of workforce laid off across all companies
   
-100% layoff events 
-
 — Filtered companies that laid off their entire workforce, ranked by size and funds raised
 Company-level totals
 
@@ -23,10 +19,8 @@ Year-over-year trends
 
 — Grouped layoffs by year to track how the wave evolved over time
 
-Monthly trends & rolling totals 
 
 — Used a rolling SUM window function to visualize cumulative layoffs month by month
 
-Top 5 companies per year
 
 — Used DENSE_RANK() with PARTITION BY to rank companies by layoffs within each year
