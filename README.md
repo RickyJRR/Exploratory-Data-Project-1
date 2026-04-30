@@ -24,3 +24,18 @@ Year-over-year trends
 
 
 — Used DENSE_RANK() with PARTITION BY to rank companies by layoffs within each year
+
+
+SQL Techniques Used
+
+—Aggregate functions (SUM, MAX, AVG, MIN)
+
+—GROUP BY with multi-column grouping
+
+—Window functions (SUM OVER, DENSE_RANK OVER PARTITION BY)
+
+—Common Table Expressions (CTEs)
+
+—Substring-based date formatting for monthly grouping
+
+—Filtering and sorting with WHERE and ORDER BY
